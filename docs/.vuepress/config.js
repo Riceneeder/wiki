@@ -28,7 +28,7 @@ module.exports = {
       },
       {
         text: "FAQ",
-        link: "/FAQ/",
+        link: "/FAQ/1.md",
       },
       {
         text: "官网",
@@ -60,6 +60,12 @@ module.exports = {
         {
           text: "视频教程",
           children: ["/video/1.md","/video/2.md","/video/3.md"],
+        },
+      ],
+      "/FAQ/": [
+        {
+          text: "FAQ",
+          children: ["/FAQ/1.md","/FAQ/2.md"],
         },
       ],
     },
