@@ -1,5 +1,11 @@
 module.exports = {
   // 站点配置
+  head: [
+    [
+      "link", // 设置 favicon.ico，注意图片放在 public 文件夹下
+      { rel: "icon", href: "https://p.qlogo.cn/gh/707537805/950336404/100" },
+    ],
+  ],
   lang: "zh-CN",
   title: "乐下载虚拟主机",
   description: "这是一个提供免费虚拟主机的公益项目",
@@ -59,13 +65,13 @@ module.exports = {
       "/video/": [
         {
           text: "视频教程",
-          children: ["/video/1.md","/video/2.md","/video/3.md"],
+          children: ["/video/1.md", "/video/2.md", "/video/3.md"],
         },
       ],
       "/FAQ/": [
         {
           text: "FAQ",
-          children: ["/FAQ/1.md","/FAQ/2.md"],
+          children: ["/FAQ/1.md", "/FAQ/2.md"],
         },
       ],
     },
