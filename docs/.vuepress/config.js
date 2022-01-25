@@ -4,6 +4,7 @@ module.exports = {
     title: '乐下载虚拟主机',
     description: '这是一个提供免费虚拟主机的公益项目',
     //base: '/',
+    dest:'public',
      
     // 主题和它的配置
     theme: '@vuepress/theme-default',
