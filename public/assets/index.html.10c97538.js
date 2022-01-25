@@ -1,0 +1,1 @@
+const e={key:"v-ce20e166",path:"/video/",title:"\u89C6\u9891\u5747\u6765\u6E90\u4E8EUP\u5728B\u7AD9\u53D1\u5E03\u7684\u6559\u7A0B",lang:"zh-CN",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:null,contributors:[]},filePathRelative:"video/README.md"};export{e as data};
