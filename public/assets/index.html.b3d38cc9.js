@@ -1,0 +1,1 @@
+import{o as t,a as o,b as e}from"./app.65526a60.js";import{_ as s}from"./plugin-vue_export-helper.21dcd24c.js";const c={},n={class:"custom-container tip"},a=e("p",{class:"custom-container-title"},"TIP",-1),r=e("p",null,"\u6574\u7406\u4E2D\uFF0C\u656C\u8BF7\u671F\u5F85",-1),_=[a,r];function i(p,d){return t(),o("div",n,_)}var u=s(c,[["render",i]]);export{u as default};

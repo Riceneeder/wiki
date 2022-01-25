@@ -1,1 +1,0 @@
-const e={key:"v-83ca993e",path:"/more/wordpress.html",title:"wordpress\u7684\u642D\u5EFA",lang:"zh-CN",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:null,contributors:[]},filePathRelative:"more/wordpress.md"};export{e as data};
