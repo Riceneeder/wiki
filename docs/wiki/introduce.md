@@ -7,3 +7,11 @@
 **本站是为了回应UP主的无私奉献，为大部分从未使用过虚拟主机的网友而编写的入门教学，通过一个简单的例子使新手可以游刃有余**
 
 > 本站教学所用源码均来源于源码官网，若不放心可自行前往官网下载
+
+**公益项目运营不易，UP一直处于亏钱状态，如果可以希望能为UP买一杯奶茶，在多在少都没事，本教程作者已带头捐助10元**
+
+
+<img src="https://gitee.com/MrVanme/photos/raw/master/202201272157899.jpg" alt="" style="width:50%">
+<img src="https://gitee.com/MrVanme/photos/raw/master/202201272157019.jpg" alt="" style="width:50%">
+
+
