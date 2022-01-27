@@ -8,17 +8,11 @@ actions:
     link: /wiki/introduce.html
     type: primary
 features:
-- title: 100% 在线率
-  details: 我们提供100%在线率的服务器，云服务，云计算等多种有质量保证的产品。
-- title: 安全保护
-  details: 人类文明有史以来最强大的防火墙已经被集装上了您的服务器中！
-- title: 独立客服
-  details: 客服人员随时随地等待您的指示，一个客服不会同时面对超过2个客户！
-- title: 内容分发
-  details: 所有的资源内容都会平均的分发到每一位的用户手中。
-- title: 各种集成
-  details: 支持一键搭建各类型环境以及网站，包括云塔这种优秀的销售系统！
-- title: 快速加载
-  details: 购买的服务器平均延迟不会超过100000毫秒，使用CN2双向线路。
+- title: 稳定
+  details: 达到百分之九十九的在线率，不关机不宕机，不被打死不被影响
+- title: 沟通
+  details: 专业的沟通技巧，极速找到客户的问题并且提交到专业的技术人员团队解决
+- title: 快速
+  details: 迅速购买迅速搭建迅速浏览，整个过程不超过五分钟，这就是我们的自信
 footer: Copyright © 2022 | 官方QQ群：950336404
 ---
