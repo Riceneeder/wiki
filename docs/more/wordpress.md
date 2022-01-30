@@ -4,6 +4,8 @@
 在阅读此文章前默认您已经阅读过[快速上手](/wiki/start.md)这篇文章
 :::
 
+> WordPress是一款能让您建立出色网站、博客或应用程序的开源软件
+
 ## 上传源码
 
 [点击此处](https://cn.wordpress.org/latest-zh_CN.zip)获取源码或前往[官网](https://cn.wordpress.org/)下载源码,将源码压缩包上传到你网站的```wwwroot```目录或根目录```/```下，解压

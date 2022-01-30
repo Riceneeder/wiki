@@ -49,7 +49,7 @@ module.exports = {
         },
         {
           text: "更进一步",
-          children: ["/more/wordpress.md"],
+          children: ["/more/wordpress.md","/more/showdoc.md"],
         },
       ],
       "/more/": [
@@ -59,7 +59,7 @@ module.exports = {
         },
         {
           text: "更进一步",
-          children: ["/more/wordpress.md"],
+          children: ["/more/wordpress.md","/more/showdoc.md"],
         },
       ],
       "/video/": [
