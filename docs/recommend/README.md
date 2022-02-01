@@ -6,6 +6,7 @@ sidebar: false
 
 |  源码  |  介绍  |   下载地址        |
 | :----: | :----: | :------------: |
+|Minecraft文件更新助手（群友Cheese推荐）|可以用来同步php服务器上的文件到客户端，也可选择同步完成后执行系统命令|[下载地址](https://www.mcbbs.net/thread-711833-1-1.html)[帮助文档](https://updater-for-minecraft.github.io/Docs/#/)|
 |OneManager-php|一个非常优秀的网盘目录列表程序，支持挂载Onedrive、阿里网盘、Google Drive等网盘，可以直接在线预览图片、在线播放视频，非常适合共享Onedrive、阿里网盘、Google Drive网盘中的文件，当然OneManager也可以对文件夹或者目录设置密码，限制共享权限|[github](https://github.com/qkqpttgf/OneManager-php/blob/master/)|
 |wordpress|WordPress是一款能让您建立出色网站、博客或应用程序的开源软件|[wordpress](https://cn.wordpress.org/download/)|
 |可道云|可道云是一款拥有丰富功能的私有云在线文档管理系统，利用它我们可以方便快捷地搭建起一个私有网盘/云桌面|[可道云/gitee](https://gitee.com/kalcaddle/KODExplorer)|
@@ -20,5 +21,6 @@ sidebar: false
 |一款简约漂亮的单双页版源码 |这是大佬【AyagawaSeirin】免费开源的单页个人主页纯静态源码、目前有两个主页版本:master单页版、double双页版、非常漂亮的单页HTML源码、喜欢的自行下载修改源码！|[UP主站](https://www.lexz.top/1442/) |
 |超好看的引导页导航页源码   |超好看的引导页，怎么看都很华丽，很舒服，你值得拥有   |[UP主站](https://www.lexz.top/1439/)   |
 |超轻简洁个人引导页源码   |个人引导页，适用于个人网站首页，用记事本打开index.html，直接修改即可   |[UP主站](https://www.lexz.top/1436/)   |
+
 
 
