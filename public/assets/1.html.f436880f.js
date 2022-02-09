@@ -1,1 +1,0 @@
-const e={key:"v-77424e56",path:"/video/1.html",title:"\u5982\u4F55\u5728\u4E3B\u673A\u4E0A\u642D\u5EFAwordpress\u535A\u5BA2\u7CFB\u7EDF",lang:"zh-CN",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1643101453e3,contributors:[{name:"\u68B5\u9AD8\u5148\u751F",email:"845541909@qq.com",commits:1}]},filePathRelative:"video/1.md"};export{e as data};
